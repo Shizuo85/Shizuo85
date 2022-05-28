@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shizuo85
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in backend development with nodejs
 - 🌱 I’m currently learning how to create better websites using javascript
-- 💞️ I’m looking to intern in a company that would give me a real world experience in frontend engineering
+- 💞️ I’m looking to intern in a company that would give me a real world experience in backend engineering
 - 📫 How to reach me ekeneanthony85@gmail.com
 
 <!---
