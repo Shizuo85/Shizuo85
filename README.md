@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Shizuo85
-- 👀 I’m interested in backend development with nodejs
+- 👋 Hi, I’m Shizuo. A frontend engineer, backend engineer, electrical and electronics engineering major
+- 👀 I’m interested in software engineering, data science, robotics, automation and artificial intelligence.
 - 🌱 I’m currently learning how to create better websites using javascript
-- 💞️ I’m looking to intern in a company that would give me a real world experience in backend engineering
-- 📫 How to reach me ekeneanthony85@gmail.com
+- 💞️ I’m looking to collaborate on fun, challenging projects
+- 📫 How to reach me:
+     via mail: ekeneanthony85@gmail.com
+     via linkedIn: https://www.linkedin.com/in/ekene-ike-okoro-28b9b4176
 
 <!---
 Shizuo85/Shizuo85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
