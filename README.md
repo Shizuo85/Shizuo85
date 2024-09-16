@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to create better websites using javascript
 - 💞️ I’m looking to collaborate on fun, challenging projects
 - 📫 How to reach me:
-     via mail: ekeneanthony85@gmail.com
+     via mail: ekeneikeokoro@gmail.com
      via linkedIn: https://www.linkedin.com/in/ekene-ike-okoro-28b9b4176
 
 <!---
